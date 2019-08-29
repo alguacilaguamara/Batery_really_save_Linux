@@ -1,4 +1,4 @@
-# Batery really save Linux
+# Battery really save Linux
 This is an install package to save battery on Linux distribution.
 
 Its include a package for Ubuntu and Debian with name Battery_really_save.deb.
