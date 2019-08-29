@@ -4,7 +4,7 @@ Description=PowerTOP auto tune
 [Service]
 Type=idle
 Environment="TERM=dumb"
-ExecStart=/usr/sbin/batery_really_save.sh
+ExecStart=/opt/battery_really_save_linux//batery_really_save.sh
 
 [Install]
 WantedBy=multi-user.target
