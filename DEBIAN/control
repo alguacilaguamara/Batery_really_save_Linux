@@ -3,6 +3,6 @@ Priority: optional
 Section: misc
 Maintainer: Alejandro Alguacil
 Architecture: all
-Version: 1.0
+Version: 1.1
 Depends: tlp, tlp-rdw, acpi, powertop
 Description: No more bad battery! With this package you automatically save battery and enjoy with your PC

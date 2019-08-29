@@ -8,4 +8,3 @@ ExecStart=/opt/battery_really_save_linux//batery_really_save.sh
 
 [Install]
 WantedBy=multi-user.target
-EOF
